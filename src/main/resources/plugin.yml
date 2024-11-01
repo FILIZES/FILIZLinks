@@ -1,0 +1,6 @@
+name: FILIZLinks
+version: '${version}'
+main: org.filizes.filizlinks.Main
+api-version: '1.16'
+load: STARTUP
+authors: [FILIZES]
