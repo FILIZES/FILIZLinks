@@ -1,0 +1,16 @@
+# Внимание! Плагин поддерживает Hex-Цвета
+# Для корректной работы Hex-цвета следуйте примеру ниже
+# #FFFFFFТекст
+server:
+  title: "&5······ &dНаши сообщества и ссылки: &5······" # Символы в начале
+  ender: "&5························································································" # Символы в конце
+links:
+  site: "&aFunTime.Su (Plugin by FILIZES)" # Айпи вашего сервера
+  forum: "&eforum.FunTime.Su (Plugin by FILIZES)" # Ссылка на ваш форум
+  vk: "&bvk.com/mc_funtime (Plugin by FILIZES)" # Ссылка на вашу группу в ВК
+  discord: "&9dd.funtime.su (Plugin by FILIZES)" # Ссылка на дс
+  support: "&dvk.me/mc_funtime (Plugin by FILIZES)" # Ссылка на сайт
+other:
+  reload: "&aКонфигурация FILIZLinks успешно перезагружена!" # Сообщение после перезагрузки плагина
+  symbol: "&5»" # Символ в начале каждой строчки. По умолчанию: &5»
+  symbol-strelka: "&f⇨" # Символ стрелочки. По умолчанию: &f⇨
