@@ -1,6 +1,9 @@
 name: FILIZLinks
 version: '${version}'
 main: org.filizes.filizlinks.Main
-api-version: '1.16'
+api-version: '1.13'
 load: STARTUP
 authors: [FILIZES]
+commands:
+  links:
+    description: Link command
